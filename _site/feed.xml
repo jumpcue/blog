@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jumpcue.co</title>
+    <description>Conversations about product, people, process, and other stuff
+</description>
+    <link>http://jumpcue.co/</link>
+    <atom:link href="http://jumpcue.co/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 11 Jan 2015 14:03:48 -0500</pubDate>
+    <lastBuildDate>Sun, 11 Jan 2015 14:03:48 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>welcome to jumpcue</title>
+        <description>&lt;p&gt;sup&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jan 2015 08:40:18 -0500</pubDate>
+        <link>http://jumpcue.co/2015/01/11/welcome-to-jumpcue.html</link>
+        <guid isPermaLink="true">http://jumpcue.co/2015/01/11/welcome-to-jumpcue.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
