@@ -1,9 +1,15 @@
 ---
-title: Can I get a podcast?
-layout: post
+layout: episode
+date: 2015-01-07 09:30:00
+title: Episode 1 - Into the abyss (or, Why remote working might be good for you!)
+duration: 11:48
+length: 5783366
+link: https://s3.amazonaws.com/jumpcue/Nonanon.m4a
 ---
 
 <audio controls>
   <source src="https://s3.amazonaws.com/jumpcue/Nonanon.m4a" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+
+Wherein John and Michael say some extremely interesting things about remote working. But don't worry, thanks to the audio quality, you won't really be able to hear them!
