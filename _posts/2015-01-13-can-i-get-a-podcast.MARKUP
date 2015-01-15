@@ -4,11 +4,6 @@ layout: post
 ---
 
 <audio controls>
-  <source src="https://s3.amazonaws.com/jumpcue/Nonanon.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
   <source src="https://s3.amazonaws.com/jumpcue/Nonanon.m4a" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
