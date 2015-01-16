@@ -2,7 +2,7 @@
 name: jumpcue
 description: take a leap
 url: http://jumpcue.co
-title: umpcue
+title: jumpcue
 email: hi@jumpcue.co
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
