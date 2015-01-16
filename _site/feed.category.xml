@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Jumpcue - Podcast</title>
+		<description>Posts categorized as ‘podcast’</description>
+		<link>http://jumpcue.co</link>
+		<atom:link href="http://jumpcue.co/feed.category.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Episode 1 - Into the abyss (or, Why remote working might be good for you!)</title>
+				
+					<description>&lt;audio controls&gt;
+  &lt;source src=&quot;https://s3.amazonaws.com/jumpcue/Nonanon.m4a&quot; type=&quot;audio/mpeg&quot;&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;  
+
+</description>
+				
+				<pubDate>Wed, 07 Jan 2015 04:30:00 -0500</pubDate>
+				<link>http://jumpcue.co/podcast/2015/01/07/can-i-get-a-podcast.html</link>
+				<guid isPermaLink="true">http://jumpcue.co/podcast/2015/01/07/can-i-get-a-podcast.html</guid>
+			</item>
+		
+	</channel>
+</rss>

@@ -1,4 +1,7 @@
 # Site settings
+name: Jumpcue
+description: Styptic observations about product and tech, character assassinations both real and imagined, irrational perspectivism
+url: http://jumpcue.co
 title: jumpcue.co
 email: hi@jumpcue.co
 description: > # this means to ignore newlines until "baseurl:"
