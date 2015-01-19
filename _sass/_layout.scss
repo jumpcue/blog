@@ -3,7 +3,8 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    /*border-bottom: 1px solid $grey-color-light;*/
+    margin-bottom:20px;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -23,17 +24,23 @@
     }
 }
 
+ .site-title > img {
+ 	margin-right:10px;
+ }
+
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 80px;
+    
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
+        color: $brand-color;
         line-height: $base-line-height;
+        margin: 0 10px;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -86,7 +93,9 @@
     }
 }
 
-
+.site-nav .icon--twitter >svg path {
+	fill: $brand-color;
+}
 
 /**
  * Site footer
@@ -175,6 +184,8 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        border-bottom: 1px dotted $grey-color;
+        padding-bottom: 30px;
     }
 }
 
@@ -183,9 +194,10 @@
     color: $grey-color;
 }
 
-.post-link {
+.post-link, post-link:visited {
     display: block;
     font-size: 24px;
+    color: $grey-color-dark !important;
 }
 
 
