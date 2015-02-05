@@ -10,3 +10,5 @@ Conversations about:
 - people
 - process
 - and other things
+
+with @michaelfives and @cjohnkim
